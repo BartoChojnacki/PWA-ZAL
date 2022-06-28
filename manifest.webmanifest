@@ -1,0 +1,13 @@
+{
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "https://bartochojnacki.github.io/PWA-ZAL/",
+    "name": "PWAZAAW",
+    "short_name": "PWAZAAW",
+    "description": "PWAZAAW",
+    "icons": {
+        "name": "Green Illustrative Continents of the World Wizer Worksheet.pdf"
+    }
+}
